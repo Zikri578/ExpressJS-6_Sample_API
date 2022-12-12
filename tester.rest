@@ -1,0 +1,8 @@
+
+### membuat create notes 
+POST http://localhost:9000/api/notes/create
+Content-Type: application/json
+
+### membuat read notes
+GET http://localhost:9000/api/notes/read
+Content-Type: application/json
